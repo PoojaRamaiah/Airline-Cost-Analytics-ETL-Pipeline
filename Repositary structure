@@ -1,0 +1,25 @@
+Airline-Cost-ETL/
+│
+├── data/
+│   ├── raw/
+│   │   └── airline_cost_data.csv
+│   └── processed/
+│
+├── notebooks/
+│   └── airline_etl_pyspark.py
+│
+├── sql/
+│   └── analytics_queries.sql
+│
+├── dashboard/
+│   └── powerbi_dashboard_description.md
+│
+├── screenshots/
+│   └── dashboard_sample.png
+│
+├── architecture/
+│   └── architecture_description.md
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
